@@ -2,7 +2,7 @@
 
 # Hi there 😀
 
-## Git stats
+## Git Stats
 
 ![Sunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=go-sunwoo&show_icons=true&theme=radical)
 
