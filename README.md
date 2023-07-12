@@ -6,7 +6,7 @@
 ## 스킬
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 
-## github 통계
+## 깃허브 통계
 ![Usunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usunwoo&theme=gruvbox&show_icons=true)
 
 ## 백준
