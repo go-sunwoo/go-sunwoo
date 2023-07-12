@@ -4,8 +4,10 @@
 머신러닝 엔지니어를 목표로 공부 중인 유선우라고 합니다!
 
 ## 스킬
-<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 
-## 통계
+## github 통계
 ![Usunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usunwoo&theme=gruvbox&show_icons=true)
+
+## 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunsense)](https://solved.ac/sunsense/)
