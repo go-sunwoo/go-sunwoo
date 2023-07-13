@@ -3,7 +3,7 @@
 # 안녕하세요😀
 머신러닝 엔지니어를 목표로 공부 중인 유선우라고 합니다!
 
-## 스킬
+## 공부중인 스킬
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 
 ## 깃허브 통계
