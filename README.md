@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white">
 
-## 깃허브 통계 (private commit 미반영)
+## 깃허브 통계 (private 미반영)
 ![Usunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usunwoo&theme=gruvbox&show_icons=true)
 
 ## 백준
