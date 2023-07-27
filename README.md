@@ -4,9 +4,11 @@
 머신러닝 엔지니어를 목표로 공부 중인 유선우라고 합니다!
 
 ## 공부중인 스킬
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-## 깃허브 통계
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white">
+
+## 깃허브 통계 (private commit 미반영)
 ![Usunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usunwoo&theme=gruvbox&show_icons=true)
 
 ## 백준
