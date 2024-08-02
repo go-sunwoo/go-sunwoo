@@ -4,12 +4,11 @@
 **AI Engineer**를 목표로 공부 중인 유선우입니다.
 
 # Skills
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 
 # Github Stats
 ![Usunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usunwoo&theme=gruvbox&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usunwoo&exclude_repo=Usunwoo.github.io,&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 # Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunsense)](https://solved.ac/sunsense/)
